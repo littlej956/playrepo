@@ -1,0 +1,1 @@
+{"metrics":["org.graylog2.throughput.input.1-sec-rate","org.graylog2.throughput.output.1-sec-rate","org.graylog2.plugin.streams.Stream.5d8913d32ab79c00018b7aef.incomingMessages.1-sec-rate","org.graylog2.plugin.streams.Stream.5d8918ec2ab79c000116d5b8.incomingMessages.1-sec-rate"]}

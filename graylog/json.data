@@ -1,0 +1,5 @@
+{ 
+   "metrics":[ 
+      "org.graylog2.throughput.input.1-sec-rate"
+    ]
+}
